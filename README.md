@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi there, I'm Apoorv 👋
 
-<!--
-**apoorv-gthub/apoorv-gthub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Computer Engineering student building scalable applications and exploring full-stack web development. I enjoy problem-solving and am actively expanding my knowledge of backend architecture.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack & Tools
+* **Core Languages:** Java, JavaScript
+* **Frontend:** HTML, CSS, React
+* **Backend:** Node.js, Express.js, EJS
+* **Databases:** MySQL
+* **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 🎓 Finishing my B.E. in Computer Engineering.
+* 🧠 Consistently practicing Data Structures and Algorithms.
+* 🏗️ Building full-stack web applications and preparing to dive into Advanced Java and JDBC.
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/apoorv-lambe-91b21b31a/)
+* [LeetCode](https://leetcode.com/u/hVmx0GTamp/)
+* Reach out via email: apoorvlambe@gmail.com
