@@ -2,13 +2,10 @@
 
 I am a final-year Computer Engineering student building scalable applications and exploring full-stack web development. I enjoy problem-solving and am actively expanding my knowledge of backend architecture.
 
-<div align="center">
-  <!-- GitHub Readme Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorv-gthub&show_icons=true&theme=radical&hide_border=true" alt="Apoorv's GitHub Stats" />
-  
-  <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-gthub&layout=compact&theme=radical&hide_border=true" alt="Apoorv's Top Languages" />
-</div>
+<br/>
+
+[![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorv-gthub&show_icons=true&theme=radical&hide_border=true)](https://github.com/apoorv-gthub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-gthub&layout=compact&theme=radical&hide_border=true)](https://github.com/apoorv-gthub)
 
 <br/>
 
