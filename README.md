@@ -27,6 +27,7 @@ I am a final-year Computer Engineering student building scalable applications an
 * 🏗️ Building full-stack web applications and preparing to dive into Advanced Java and JDBC.
 
 ### 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/apoorvlambe/)
-* [LeetCode](https://leetcode.com/u/apoorv-gthub/)
-* Reach out via email: apoorvlambe@gmail.com
+
+* [LinkedIn](https://www.linkedin.com/in/apoorv-lambe-91b21b31a/)
+* [LeetCode](https://leetcode.com/u/hVmx0GTamp/)
+* 📧 Reach out via email: apoorvlambe@gmail.com
