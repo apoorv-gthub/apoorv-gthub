@@ -4,9 +4,9 @@ I am a final-year Computer Engineering student building scalable applications an
 
 <br/>
 
-[![Apoorv's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=apoorv-gthub&show_icons=true&theme=radical&hide_border=true)](https://github.com/apoorv-gthub)
+![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorv-gthub&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apoorv-gthub&layout=compact&theme=radical&hide_border=true)](https://github.com/apoorv-gthub)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-gthub&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=apoorv-gthub&theme=radical&hide_border=true)
 <br/>
